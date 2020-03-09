@@ -1,9 +1,0 @@
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\bin\Debug\NeuralDotLib.dll
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\bin\Debug\NeuralDotLib.pdb
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\bin\Debug\NeuralDotLib.xml
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.vbprojResolveAssemblyReference.cache
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.Resources.resources
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.vbproj.GenerateResource.Cache
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.dll
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.xml
-c:\users\soni\documents\visual studio 2015\Projects\NeuralDotLib\NeuralDotLib\obj\Debug\NeuralDotLib.pdb
